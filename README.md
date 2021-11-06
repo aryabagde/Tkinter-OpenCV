@@ -1,5 +1,6 @@
 # Tkinter-OpenCV
-This is a ython GUI program using Tkinter which consist of 4 OpenCV projects
+## Project Using Tkinter, Opencv, Mediapipe 
+This is a pthon GUI program using Tkinter which consist of 4 OpenCV projects
 
 1. Finger Counter 
    This program counts the number of fingers(0, 1, 2, 3, 4, 5) when showed in front of camera
