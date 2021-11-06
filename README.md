@@ -24,3 +24,5 @@ Scans basic text QR Codes and displays the text embedded
 User can blend in a steady environment using any RED cloth 
 
 <img src = "Images/Project5.PNG">
+
+Suggestions and Pull Requests are most welcomed
